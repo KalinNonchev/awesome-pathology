@@ -192,6 +192,8 @@
 - [H2T](https://github.com/vqdang/H2T/) - Handcrafted Histological Transformer for unsupervised representation of WSIs.
 - [HEST](https://github.com/mahmoodlab/hest/) - Bringing spatial transcriptomics and histopathology together.
 - [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics/) - DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k Xenium samples (~13.3M cells). Manuscript: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+- [KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas) - DeepSpot-M predicted ST for 1,534 H&E kidney biopsy slides from 476 KPMP participants, with clinical and histopathological annotations. Manuscript: [DeepSpot-M kidney (KPMP)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1).
+- [KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics) - DeepSpot-M predicted transcriptome-wide ST for 49 KPMP Xenium kidney sections (~1.64M cells). Manuscript: [DeepSpot-M kidney (KPMP)](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1).
 - [LC25000](https://github.com/tampapath/lung_colon_image_set/) - Lung and colon cancer histopathological image dataset.
 - [LyNSeC](https://zenodo.org/records/8065174/) - Lymphoma nuclear segmentation and classification dataset.
 - [MHIST](https://bmirds.github.io/MHIST/) - Minimalist histopathology image analysis dataset.
